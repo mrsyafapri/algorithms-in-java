@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch LinearSearch",
+            "request": "launch",
+            "mainClass": "com.mrsyafapri.algorithm.searching.LinearSearch",
+            "projectName": "Algorithm_56d0a0b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "com.mrsyafapri.algorithm.searching.BinarySearch",
+            "projectName": "Algorithm_56d0a0b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch SequentialSearch",
+            "request": "launch",
+            "mainClass": "com.mrsyafapri.algorithm.searching.SequentialSearch",
+            "projectName": "Algorithm_56d0a0b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch SelectionSort",
+            "request": "launch",
+            "mainClass": "com.mrsyafapri.algorithm.sorting.SelectionSort",
+            "projectName": "Algorithm_56d0a0b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch InsertionSort",
+            "request": "launch",
+            "mainClass": "com.mrsyafapri.algorithm.sorting.InsertionSort",
+            "projectName": "Algorithm_56d0a0b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "com.mrsyafapri.algorithm.sorting.BubbleSort",
+            "projectName": "Algorithm_56d0a0b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "com.mrsyafapri.algorithm.BinarySearch",
+            "projectName": "Algorithm_56d0a0b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch SequentialSearch",
+            "request": "launch",
+            "mainClass": "com.mrsyafapri.algorithm.SequentialSearch",
+            "projectName": "Algorithm_56d0a0b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinearSearch",
+            "request": "launch",
+            "mainClass": "com.mrsyafapri.algorithm.LinearSearch",
+            "projectName": "Algorithm_56d0a0b3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Algorithm_56d0a0b3"
+        }
+    ]
+}
